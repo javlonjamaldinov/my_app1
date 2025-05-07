@@ -1,0 +1,1 @@
+export 'view/result_view.dart';

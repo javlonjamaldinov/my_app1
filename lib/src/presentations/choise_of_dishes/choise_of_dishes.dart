@@ -1,0 +1,1 @@
+export 'view/choise_of_dishes_view.dart';
